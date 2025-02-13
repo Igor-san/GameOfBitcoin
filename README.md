@@ -20,3 +20,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+<img src="https://github.com/user-attachments/assets/1737ae4f-7bfb-410a-ba2c-e0d0fdf4459e" alt="скриншот программы в Виндоус" width="500">
+
+скриншот программы в Виндоус
+
+<img src="https://github.com/user-attachments/assets/ec639148-faca-49ca-9fe5-64d08a09b1d7" alt="скриншот программы в Андроиде" width="300">
+
+скриншот программы в Андроиде
+
+<img src="https://github.com/user-attachments/assets/eb7338f4-97d2-49b0-8f67-a64423fd06e2" alt="Демо приватный ключ 17" width="300">
+
+Демо приватный ключ №17
+
+Wasm веб версия https://gameofbitcoin.ru/
